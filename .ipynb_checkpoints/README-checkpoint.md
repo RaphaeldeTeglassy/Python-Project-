@@ -7,9 +7,7 @@ Mini-project for the Programming & Data Analytics course.
 
 ## Why this project
 
-I chose a project related to my future internship in retail, so that I could work on something useful and potentially reuse parts of this analysis later on.  
-More generally, discounts are widely used in retail to increase sales, but their actual relationship with sales is not always straightforward. A common assumption is that higher discounts lead to higher sales, but this needs to be verified with data. That will pecisely be the aim of this project, to study the relationship between discounts and sales using the Superstore dataset. We will explore the data and see what the relationship looks like in practice in this dataset, by focusing on correlation, not causality.
-
+Discounts are widely used in retail to increase sales, but their actual relationship with sales is not always straightforward. In this project, we find a result that may seem surprising at first: higher discounts are associated with slightly lower sales on average. This makes the analysis interesting, as it shows that what we observe in the data does not always match our initial intuition. This project helped me better understand how data should be interpreted carefully, especially when variables are linked to business decisions.
 
 To be noted:
 > The dataset (`superstore.csv`) is not committed to the repository.  

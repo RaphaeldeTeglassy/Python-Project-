@@ -18,7 +18,7 @@ def make_fake_df():
     })
 
 
-# Now, unit tests:
+# --- unit tests ---
 
 def test_clean_data_columns():
     """Check that only the relevant columns are kept."""
@@ -64,7 +64,7 @@ def test_run_regression_r_squared():
     assert 0.0 <= res["r_squared"] <= 1.0
 
 
-# And, integration test: 
+# --- integration test ---
 
 def test_full_pipeline():
     """Check that the full pipeline runs without error."""
